@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPlay", "WordPlay\WordPlay.csproj", "{DA4F08C9-B795-4CD3-920E-3C875CCF5D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPlayUnitTest", "WordPlayUnitTest\WordPlayUnitTest.csproj", "{8DFCFE83-D9FA-48DA-8946-E600A588229B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4F08C9-B795-4CD3-920E-3C875CCF5D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4F08C9-B795-4CD3-920E-3C875CCF5D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4F08C9-B795-4CD3-920E-3C875CCF5D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4F08C9-B795-4CD3-920E-3C875CCF5D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFCFE83-D9FA-48DA-8946-E600A588229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFCFE83-D9FA-48DA-8946-E600A588229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFCFE83-D9FA-48DA-8946-E600A588229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFCFE83-D9FA-48DA-8946-E600A588229B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
